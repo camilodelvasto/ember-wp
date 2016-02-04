@@ -1,0 +1,3 @@
+##Ember-WP
+
+This is a SPA using ember and powered by a WordPress RESTful api. More on this coming....
